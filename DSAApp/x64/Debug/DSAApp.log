@@ -1,0 +1,5 @@
+﻿  DSA.cpp
+  DSAAppDlg.cpp
+  Создание кода...
+G:\Работа\Реализация алгоритм DSA\Программа\DSAApp\DSAApp\DSAAppDlg.cpp(121,10): warning C4101: buffer: неиспользованная локальная переменная
+  DSAApp.vcxproj -> G:\Работа\Реализация алгоритм DSA\Программа\DSAApp\x64\Debug\DSAApp.exe

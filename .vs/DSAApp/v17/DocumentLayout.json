@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAFEE48-67CC-4D68-A4FD-6918892CB71D}|DSAApp\\DSAApp.vcxproj|G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\SHA256.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DAFEE48-67CC-4D68-A4FD-6918892CB71D}|DSAApp\\DSAApp.vcxproj|solutionrelative:DSAApp\\SHA256.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAFEE48-67CC-4D68-A4FD-6918892CB71D}|DSAApp\\DSAApp.vcxproj|G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\SHA256.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DAFEE48-67CC-4D68-A4FD-6918892CB71D}|DSAApp\\DSAApp.vcxproj|solutionrelative:DSAApp\\SHA256.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAFEE48-67CC-4D68-A4FD-6918892CB71D}|DSAApp\\DSAApp.vcxproj|G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\DSA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DAFEE48-67CC-4D68-A4FD-6918892CB71D}|DSAApp\\DSAApp.vcxproj|solutionrelative:DSAApp\\DSA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAFEE48-67CC-4D68-A4FD-6918892CB71D}|DSAApp\\DSAApp.vcxproj|G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DAFEE48-67CC-4D68-A4FD-6918892CB71D}|DSAApp\\DSAApp.vcxproj|solutionrelative:DSAApp\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAFEE48-67CC-4D68-A4FD-6918892CB71D}|DSAApp\\DSAApp.vcxproj|G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DAFEE48-67CC-4D68-A4FD-6918892CB71D}|DSAApp\\DSAApp.vcxproj|solutionrelative:DSAApp\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAFEE48-67CC-4D68-A4FD-6918892CB71D}|DSAApp\\DSAApp.vcxproj|G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DAFEE48-67CC-4D68-A4FD-6918892CB71D}|DSAApp\\DSAApp.vcxproj|solutionrelative:DSAApp\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAFEE48-67CC-4D68-A4FD-6918892CB71D}|DSAApp\\DSAApp.vcxproj|G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\DSAAppDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DAFEE48-67CC-4D68-A4FD-6918892CB71D}|DSAApp\\DSAApp.vcxproj|solutionrelative:DSAApp\\DSAAppDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAFEE48-67CC-4D68-A4FD-6918892CB71D}|DSAApp\\DSAApp.vcxproj|G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\DSAApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DAFEE48-67CC-4D68-A4FD-6918892CB71D}|DSAApp\\DSAApp.vcxproj|solutionrelative:DSAApp\\DSAApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAFEE48-67CC-4D68-A4FD-6918892CB71D}|DSAApp\\DSAApp.vcxproj|G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\BigInt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DAFEE48-67CC-4D68-A4FD-6918892CB71D}|DSAApp\\DSAApp.vcxproj|solutionrelative:DSAApp\\BigInt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAFEE48-67CC-4D68-A4FD-6918892CB71D}|DSAApp\\DSAApp.vcxproj|G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\DSA.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DAFEE48-67CC-4D68-A4FD-6918892CB71D}|DSAApp\\DSAApp.vcxproj|solutionrelative:DSAApp\\DSA.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAFEE48-67CC-4D68-A4FD-6918892CB71D}|DSAApp\\DSAApp.vcxproj|G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\BigInt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DAFEE48-67CC-4D68-A4FD-6918892CB71D}|DSAApp\\DSAApp.vcxproj|solutionrelative:DSAApp\\BigInt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAFEE48-67CC-4D68-A4FD-6918892CB71D}|DSAApp\\DSAApp.vcxproj|G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\DSAApp.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 9$  \u0022     ",
+      "RelativeMoniker": "D:0:0:{3DAFEE48-67CC-4D68-A4FD-6918892CB71D}|DSAApp\\DSAApp.vcxproj|solutionrelative:DSAApp\\DSAApp.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 9$  \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAFEE48-67CC-4D68-A4FD-6918892CB71D}|DSAApp\\DSAApp.vcxproj|G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\DSAAppDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DAFEE48-67CC-4D68-A4FD-6918892CB71D}|DSAApp\\DSAApp.vcxproj|solutionrelative:DSAApp\\DSAAppDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\atlmfc\\src\\mfc\\appmodul.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\utility||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DSA.h",
+              "DocumentMoniker": "G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\DSA.h",
+              "RelativeDocumentMoniker": "DSAApp\\DSA.h",
+              "ToolTip": "G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\DSA.h",
+              "RelativeToolTip": "DSAApp\\DSA.h",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-12T18:23:45.701Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Resource.h",
+              "DocumentMoniker": "G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\resource.h",
+              "RelativeDocumentMoniker": "DSAApp\\resource.h",
+              "ToolTip": "G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\resource.h",
+              "RelativeToolTip": "DSAApp\\resource.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-02T18:15:58.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pch.h",
+              "DocumentMoniker": "G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\pch.h",
+              "RelativeDocumentMoniker": "DSAApp\\pch.h",
+              "ToolTip": "G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\pch.h",
+              "RelativeToolTip": "DSAApp\\pch.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-02T18:08:55.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "framework.h",
+              "DocumentMoniker": "G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\framework.h",
+              "RelativeDocumentMoniker": "DSAApp\\framework.h",
+              "ToolTip": "G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\framework.h",
+              "RelativeToolTip": "DSAApp\\framework.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-02T17:56:16.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DSAApp.cpp",
+              "DocumentMoniker": "G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\DSAApp.cpp",
+              "RelativeDocumentMoniker": "DSAApp\\DSAApp.cpp",
+              "ToolTip": "G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\DSAApp.cpp",
+              "RelativeToolTip": "DSAApp\\DSAApp.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-02T17:45:07.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BigInt.cpp",
+              "DocumentMoniker": "G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\BigInt.cpp",
+              "RelativeDocumentMoniker": "DSAApp\\BigInt.cpp",
+              "ToolTip": "G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\BigInt.cpp",
+              "RelativeToolTip": "DSAApp\\BigInt.cpp",
+              "ViewState": "AQIAAB4BAAAAAAAAAAAUwEEBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T16:49:03.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DSA.cpp",
+              "DocumentMoniker": "G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\DSA.cpp",
+              "RelativeDocumentMoniker": "DSAApp\\DSA.cpp",
+              "ToolTip": "G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\DSA.cpp",
+              "RelativeToolTip": "DSAApp\\DSA.cpp",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwC8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-12T19:45:43.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "utility",
+              "DocumentMoniker": "G:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\utility",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\utility",
+              "ToolTip": "G:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\utility",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\utility",
+              "ViewState": "AQIAAOIAAAAAAAAAAAArwPkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-10T19:46:34.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DSAAppDlg.h",
+              "DocumentMoniker": "G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\DSAAppDlg.h",
+              "RelativeDocumentMoniker": "DSAApp\\DSAAppDlg.h",
+              "ToolTip": "G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\DSAAppDlg.h",
+              "RelativeToolTip": "DSAApp\\DSAAppDlg.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-19T18:21:17.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SHA256.cpp",
+              "DocumentMoniker": "G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\SHA256.cpp",
+              "RelativeDocumentMoniker": "DSAApp\\SHA256.cpp",
+              "ToolTip": "G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\SHA256.cpp",
+              "RelativeToolTip": "DSAApp\\SHA256.cpp",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAkwJwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-11T18:26:05.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SHA256.h",
+              "DocumentMoniker": "G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\SHA256.h",
+              "RelativeDocumentMoniker": "DSAApp\\SHA256.h",
+              "ToolTip": "G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\SHA256.h",
+              "RelativeToolTip": "DSAApp\\SHA256.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T18:48:58.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BigInt.h",
+              "DocumentMoniker": "G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\BigInt.h",
+              "RelativeDocumentMoniker": "DSAApp\\BigInt.h",
+              "ToolTip": "G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\BigInt.h",
+              "RelativeToolTip": "DSAApp\\BigInt.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-05T15:36:40.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DSAAppDlg.cpp",
+              "DocumentMoniker": "G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\DSAAppDlg.cpp",
+              "RelativeDocumentMoniker": "DSAApp\\DSAAppDlg.cpp",
+              "ToolTip": "G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\DSAAppDlg.cpp",
+              "RelativeToolTip": "DSAApp\\DSAAppDlg.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-04T20:14:16.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appmodul.cpp",
+              "DocumentMoniker": "G:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\atlmfc\\src\\mfc\\appmodul.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\atlmfc\\src\\mfc\\appmodul.cpp",
+              "ToolTip": "G:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\atlmfc\\src\\mfc\\appmodul.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\atlmfc\\src\\mfc\\appmodul.cpp",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-04T19:54:50.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DSAApp.rc - IDD_DSAAPP_DIALOG - Dialog",
+              "DocumentMoniker": "G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\DSAApp.rc",
+              "RelativeDocumentMoniker": "DSAApp\\DSAApp.rc",
+              "ToolTip": "G:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C DSA\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\DSAApp\\DSAApp\\DSAApp.rc - IDD_DSAAPP_DIALOG - Dialog",
+              "RelativeToolTip": "DSAApp\\DSAApp.rc - IDD_DSAAPP_DIALOG - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-04T18:22:54.515Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
